@@ -3,6 +3,6 @@
 *.err
 *.log
 *.out
-.ckp
-.model
+*.ckp
+*.model
 
