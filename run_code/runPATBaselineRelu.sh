@@ -1,0 +1,13 @@
+sbatch run_relu_PAT_baseline_01.sh
+sbatch run_relu_PAT_baseline_02.sh
+sbatch run_relu_PAT_baseline_03.sh
+sbatch run_relu_PAT_baseline_04.sh
+sbatch run_relu_PAT_baseline_05.sh
+sbatch run_relu_PAT_baseline_06.sh
+sbatch run_relu_PAT_baseline_07.sh
+sbatch run_relu_PAT_baseline_08.sh
+sbatch run_relu_PAT_baseline_09.sh
+sbatch run_relu_PAT_baseline_10.sh
+sbatch run_relu_PAT_baseline_11.sh
+sbatch run_relu_PAT_baseline_12.sh
+sbatch run_relu_PAT_baseline_13.sh

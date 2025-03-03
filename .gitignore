@@ -1,0 +1,8 @@
+*.xlsx
+*.txt
+*.err
+*.log
+*.out
+.ckp
+.model
+
